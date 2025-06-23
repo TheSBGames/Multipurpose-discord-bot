@@ -1,6 +1,6 @@
 {
     "token": "TOKEn",
-    "prefix": "//",
+    "prefix": "&",
     "ownerIDS": [
         "1186506712040099850"
     ],
@@ -8,10 +8,10 @@
     "fortnitetracker": "",
     "memer_api": "dzDnUYh1Sv6",
     "status": {
-        "text": "/help",
-        "text2": "/help",
+        "text": "&help",
+        "text2": "&help",
         "type": "PLAYING",
-        "url": "/help"
+        "url": "&help"
     },
     "clientsettings": {
         "nodes": [
