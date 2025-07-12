@@ -75,6 +75,8 @@ const client = new Discord.Client({
  *********************************************************/
 const Meme = require("memer-api");
 client.memer = new Meme(process.env.memer_api || config.memer_api); // GET a TOKEN HERE: https://discord.gg/Mc2FudJkgP
+client.login(process.env.TOKEN);
+
 
 
 
